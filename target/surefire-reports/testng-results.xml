@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.gmailtestpage.qa.FunctionalTest" duration-ms="28281" started-at="2016-07-17T06:07:17Z" finished-at="2016-07-17T06:07:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="28281" started-at="2016-07-17T06:07:17Z" finished-at="2016-07-17T06:07:46Z">
+      <class name="com.gmailtestpage.qa.FunctionalTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="startUp" is-config="true" duration-ms="3804" started-at="2016-07-17T02:07:17Z" finished-at="2016-07-17T02:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="invalidUserTest()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="invalidUserTest" duration-ms="9591" started-at="2016-07-17T02:07:21Z" finished-at="2016-07-17T02:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserTest -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="startUp" is-config="true" duration-ms="14" started-at="2016-07-17T02:07:31Z" finished-at="2016-07-17T02:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-07-17T02:07:31Z" finished-at="2016-07-17T02:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="validLoginTest" duration-ms="14856" started-at="2016-07-17T02:07:31Z" finished-at="2016-07-17T02:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmailtestpage.qa.FunctionalTest@60addb54]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-07-17T02:07:46Z" finished-at="2016-07-17T02:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmailtestpage.qa.FunctionalTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.gmailtestpage.qa.FunctionalTest -->
+</testng-results>
